@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,20 +8,20 @@
     <title>Hora do Dia</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
+
 <body onload="carregar()">
     <header>
         <h1>Hora do Dia</h1>
         <h4>Desenvolvido por Diego Santos</h4>
     </header>
-    <section>   
+    <section>
         <div id="msg"></div>
         <div id="foto">
             <img id="imgformat" src="manha.jpg" alt="Foto do dia">
         </div>
-        <div>
-            <!--Aqui será retornada a chamada da função frase aleatoria-->
-            <p id="msg-aleatoria">Frase aleatoria</p>
-        </div>
+        <div id="sorte"></div>
+        <!--Adaptar para gerar freses de acordo com a hora do dia-->
+<input type="button" value="Frase" onClick="obterfrase();" />
     </section>
     <footer>
         <p>&copy; CursoemVideo</p>
@@ -29,4 +30,5 @@
 
     </script>
 </body>
+
 </html>
