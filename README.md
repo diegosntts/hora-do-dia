@@ -1,7 +1,11 @@
 # hora-do-dia
 
-Atividade ex14
+Atividade ex14 
 
 -Gustavo Guanabara
 
-Atividade em desenvolvimento
+Atividade em desenvolvimento 
+
+Adicionar:
+ 
+- Animações
