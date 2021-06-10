@@ -2,8 +2,6 @@
 
 Atividade ex14 
 
--Gustavo Guanabara
-
 Atividade em desenvolvimento 
 
 Adicionar:
