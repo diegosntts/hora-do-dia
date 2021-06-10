@@ -2,8 +2,6 @@
 
 Atividade ex14 
 
-Atividade em desenvolvimento 
-
 Adicionar:
  
-- Animações
+- Conteudo
